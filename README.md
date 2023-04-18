@@ -1,3 +1,5 @@
 # Youtube-Clone
 
-This project is made using HTML, CSS
+#### Note:
+> Built using HTML & CSS
+> 
