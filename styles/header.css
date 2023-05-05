@@ -99,7 +99,7 @@
     padding: 4px 8px;
     border-radius: 2px;
     font-size: 12px;
-    bottom: -30;
+    bottom: -30px;
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events: none;
