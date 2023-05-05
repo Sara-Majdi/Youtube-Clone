@@ -53,6 +53,7 @@
     border-bottom-left-radius: 2px;
     box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
     width: 0; /*allow search box to shrink as much as possible*/
+    z-index: 100;
 }
 
 .search-bar::placeholder {
@@ -62,6 +63,8 @@
 
 .search-bar:focus {
     outline: 1px solid #1f5cc6;
+    outline-offset: -1px;
+
 }
 
 .search-button {
@@ -71,7 +74,6 @@
     border-width: 1px;
     border-style: solid;
     border-color: rgb(192, 192, 192);
-    border-radius: 2px;
     margin-left: -1px;
     margin-right: 10px;
     cursor: pointer;
