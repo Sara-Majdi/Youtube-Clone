@@ -29,12 +29,12 @@
     background-color: black;
     color: white;
     position: absolute;
-    bottom: 8px;
+    bottom: 12px;
     right: 5px;
     border-radius: 2px;
     font-size: 12px;
     font-weight: 500;
-    padding: 2px 4px;
+    padding: 3px 4px;
 }
 
 .vid-author, .vid-statistics {
@@ -47,12 +47,11 @@
 }
 
 .vid-grid {
-    font-family: Roboto, Arial;
+    font-family: 'Roboto', Arial;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 8px;
-    row-gap: 16px;
-    padding: 20px;
+    column-gap: 15px;
+    row-gap: 40px;
 }
 
 .footer {
