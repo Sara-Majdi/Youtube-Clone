@@ -1,8 +1,7 @@
 # Youtube-Clone
 Recreating Youtube UI 
 
-</br>
-## :fire: TRY IT OUT :fire: 
+# :fire: TRY IT OUT :fire: 
 </br>
  Link : https://sara-majdi.github.io/Youtube-Clone/
 
